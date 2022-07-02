@@ -1,0 +1,30 @@
+# Created at 2022-07-03T03:09:31.548
+[AppClassLoader@3cd1a2f1] error at io\qameta\allure\aspects\StepsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2022-07-03T03:09:31.551
+[AppClassLoader@3cd1a2f1] error at io\qameta\allure\aspects\AttachmentsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2022-07-03T03:09:31.944
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+
+# Created at 2022-07-03T03:09:31.944
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+# Created at 2022-07-03T03:09:31.945
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+# Created at 2022-07-03T03:09:33.071
+[DelegatingClassLoader@1daf3b44] error at io\qameta\allure\aspects\StepsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2022-07-03T03:09:33.073
+[DelegatingClassLoader@1daf3b44] error at io\qameta\allure\aspects\AttachmentsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2022-07-03T03:09:33.087
+[DelegatingClassLoader@7187bac9] error at io\qameta\allure\aspects\StepsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2022-07-03T03:09:33.089
+[DelegatingClassLoader@7187bac9] error at io\qameta\allure\aspects\AttachmentsAspects.java::0 the @annotation pointcut expression is only supported at Java 5 compliance level or above
+
+# Created at 2022-07-03T03:09:33.419
+[AppClassLoader@3cd1a2f1] warning javax.* types are not being woven because the weaver option '-Xset:weaveJavaxPackages=true' has not been specified
+
